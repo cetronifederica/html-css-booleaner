@@ -8,3 +8,32 @@ header{
     height: 40px;
 }
 /*fine logo*/
+/*inizio main*/
+/*sezione pubblicazione*/
+.scritto-da{
+    color: grey;
+}
+.nome-giornale{
+    color: blue;
+}
+.data-di-pubblicazione{
+    font-size: 10px;
+}
+/*fine sezione pubblicazione*/
+/*sezione immagini*/
+.prima-foto{
+    font-size: 10px;
+}
+.seconda-foto{
+    font-size: 10px;
+}
+/*fine sezione immagini*/
+/*inizio sezione articolo*/
+.parte-testo-primo-paragrafo{
+    background-color: yellow;
+}
+
+/*fine sezione articolo*/
+/*inizio tabella*/
+
+/*fine tabella*/
