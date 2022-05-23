@@ -1,0 +1,56 @@
+/*header*/
+header{
+    background-color: rgb(0, 0, 255);
+    background-image:url(img/pattern.png)
+    }
+/*fine header*/
+/*logo*/
+#logo{
+    height: 40px;
+}
+/*fine logo*/
+/*inizio main*/
+/*sezione pubblicazione*/
+.scritto-da{
+    color: grey;
+}
+.nome-giornale{
+    color: blue;
+}
+.data-di-pubblicazione{
+    font-size: 10px;
+}
+/*fine sezione pubblicazione*/
+/*sezione immagini*/
+.prima-foto{
+    font-size: 10px;
+}
+.seconda-foto{
+    font-size: 10px;
+}
+/*fine sezione immagini*/
+/*inizio sezione articolo*/
+.parte-testo-primo-paragrafo{
+    background-color: yellow;
+}
+
+/*fine sezione articolo*/
+/*inizio tabella*/
+
+#testa-tabella{
+    color: white;
+    background-color: rgb(80, 123, 234);
+    
+}
+#prima-riga-tabella{
+    background-color: skyblue;
+}
+#terza-riga-tabella{
+    background-color: skyblue;
+}
+/*fine tabella*/
+/*ultimo paragrafo*/
+.parte-testo-ultimo{
+    background-color: yellow;
+}
+/*fine ultimo paragrafo*/
