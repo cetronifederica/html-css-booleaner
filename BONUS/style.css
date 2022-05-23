@@ -63,24 +63,29 @@ header{
 .interessi{
     color: blue;
 }
-.foto-monitor{
-    position: relative;
- text-align: left;
- color: white;
+
+/*prima foto*/
+#scritta-foto-monitor{
+    background-image: url(img/monitor.jpg);
+    background-size: cover;
+    width: 250px;
+    height: 200px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
 }
-.scritta-foto-monitor{
-    font-size: 30px;
-    position:absolute;
-    top: 5px;
+/*fine prima foto*/
+/*seconda foto*/
+#scritta-foto-monitor-da-vicino{
+    background-image: url(img/graph.jpg);
+    background-size: cover;
+    width: 250px;
+    height: 200px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
 }
-.foto-monitor-davicino{
-    position: relative;
- text-align: left;
- color: white;
-}
-.scritta-foto-monitor-da-vicino{
-    font-size: 30px;
-    position:absolute;
-    top: 5px;
-}
+/*fine seconda foto*/
 /*fine sezione potrebbero interessarti*/
