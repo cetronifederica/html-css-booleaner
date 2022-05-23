@@ -64,7 +64,23 @@ header{
     color: blue;
 }
 .foto-monitor{
-    color: white;
-   
+    position: relative;
+ text-align: left;
+ color: white;
+}
+.scritta-foto-monitor{
+    font-size: 30px;
+    position:absolute;
+    top: 5px;
+}
+.foto-monitor-davicino{
+    position: relative;
+ text-align: left;
+ color: white;
+}
+.scritta-foto-monitor-da-vicino{
+    font-size: 30px;
+    position:absolute;
+    top: 5px;
 }
 /*fine sezione potrebbero interessarti*/
