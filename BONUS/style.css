@@ -1,11 +1,11 @@
 /*header*/
 header{
     background-color: blue;
+padding-top: 26px;
 }
 #pattern{
     background-image: url(img/pattern.png);
-    background-size: 100px;
-    background-attachment: fixed;
+    background-size: contain;
     
 }
 /*fine header*/
